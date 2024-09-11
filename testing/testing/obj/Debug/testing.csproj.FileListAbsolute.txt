@@ -1,0 +1,13 @@
+C:\Projects\testing\testing\bin\Debug\testing.exe.config
+C:\Projects\testing\testing\bin\Debug\testing.exe
+C:\Projects\testing\testing\bin\Debug\testing.pdb
+C:\Projects\testing\testing\obj\Debug\testing.csproj.AssemblyReference.cache
+C:\Projects\testing\testing\obj\Debug\testing.Properties.Resources.resources
+C:\Projects\testing\testing\obj\Debug\testing.csproj.GenerateResource.cache
+C:\Projects\testing\testing\obj\Debug\testing.csproj.CoreCompileInputs.cache
+C:\Projects\testing\testing\obj\Debug\testing.exe
+C:\Projects\testing\testing\obj\Debug\testing.pdb
+C:\Projects\testing\testing\obj\Debug\testing.Admin.resources
+C:\Projects\testing\testing\obj\Debug\testing.log_in.resources
+C:\Projects\testing\testing\obj\Debug\testing.Add_user.resources
+C:\Projects\testing\testing\obj\Debug\testing.csproj.ResolveComReference.cache
