@@ -195,8 +195,12 @@ namespace testing
 
         private void Close_Box_Click(object sender, EventArgs e)
         {
-            DB.DBclose();
-            Application.Exit();
+            DialogResult result = MessageBox.Show("Вы хотите выйти из приложения?", "Внимание!", MessageBoxButtons.YesNo);
+            if (result == DialogResult.Yes)
+            {
+                DB.DBclose();
+                Application.Exit();
+            }
         }
 
         private void pictureBox1_Click(object sender, EventArgs e)
