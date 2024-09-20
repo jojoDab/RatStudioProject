@@ -198,6 +198,7 @@ namespace testing
             DialogResult result = MessageBox.Show("Вы хотите выйти из приложения?", "Внимание!", MessageBoxButtons.YesNo);
             if (result == DialogResult.Yes)
             {
+                /////////
                 DB.DBclose();
                 Application.Exit();
             }
